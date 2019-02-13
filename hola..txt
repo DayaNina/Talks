@@ -1,2 +1,2 @@
 hola 
-este es el seminario de Github
+este es el seminario de Github 17/02/2019
